@@ -7,6 +7,7 @@ O objetivo desse teste é criar uma TODO List utilizando uma API fornecida por n
 ## Instalação
 
 ```sh
+$ npm install
 $ npm start
 ```
 
