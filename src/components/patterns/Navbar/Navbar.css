@@ -1,0 +1,10 @@
+.navbar {
+    background-color: var(--clr-card);
+    transition: var(--transition);
+    min-height: 5.3rem;
+    padding: 1rem 1.7rem;
+    box-shadow: var(--shadow-card);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

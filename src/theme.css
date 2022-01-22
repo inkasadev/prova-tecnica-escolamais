@@ -1,0 +1,29 @@
+:root {
+    --clr-background: #f5f5f5;
+
+    --clr-font:#111111;
+    --clr-card:#FEE7E7;
+    --clr-switch-track:#AABBCC;
+
+    --transition: all 0.2s linear;
+
+    --ts-caption: 600 1.8rem/1 var(--ff);
+    --ts-normal-text: 400 1.6rem/1.4 var(--ff);
+    --ts-normal-semibold: 600 1.6rem/1.4 var(--ff);
+
+	/*--clr-background:#F5F5F5;
+	--clr-font:#111111;
+    --clr-card:#FEE7E7;
+    --clr-switch-track:#AABBCC;
+    --clr-link:#3333FF;
+
+    --clr-confirmed:#D21212;
+    --clr-deaths:#223344;
+    --clr-vaccinated-1:#0000C7;
+    --clr-vaccinated-2:#117711;
+
+	--ff: "Cairo", sans-serif;
+
+    --shadow-card: 5px 5px 30px 0 rgba(51, 51, 51, 20%);*/
+
+}
